@@ -1,5 +1,7 @@
 # Tasktick
 
+[![Build Status](http://13.232.33.95:8080/buildStatus/icon?job=tasktick)](http://15.206.74.52:8080/job/tasktick/)
+
 Tasktick is an intuitive and simple to-do app designed to help you stay organized and on track with your tasks. Built with React, containerized with Docker, CI/CD integrated with Jenkins, hosted on AWS.
 
 App           |  Jenkins Dashboard
